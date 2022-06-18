@@ -8,3 +8,19 @@ https://www.foodieguide.com/iptvsearch/
 
 http://tools.jb51.net/aideddesign/ljscq
  备注：在线网址链接批量生成器
+
+3，直播源列表格式转换 - 黑鸟博客：
+
+https://guihet.com/tvlistconvert.html
+
+4，EPG的频道LOGO列表，实时更新：
+
+http://epg.51zmt.top:8000/
+
+5，EPG节目预告源地址，实时更新：
+
+http://epg.51zmt.top:8000/e.xml
+
+6，VLC：官方网站：
+
+http://www.videolan.org/
