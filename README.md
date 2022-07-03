@@ -24,3 +24,7 @@ http://epg.51zmt.top:8000/e.xml
 6，VLC：官方网站：
 
 http://www.videolan.org/
+
+7，M3U地区有效检测：
+
+http://17ce.com/site
