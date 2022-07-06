@@ -28,3 +28,7 @@ http://www.videolan.org/
 7，M3U地区有效检测：
 
 http://17ce.com/site
+
+8，七米蓝的仓库
+
+https://al.chirmyram.com/
