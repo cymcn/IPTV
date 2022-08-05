@@ -1,5 +1,13 @@
 # 网络电视
 
+
+0，GitHub 代理加速
+
+https://ghproxy.com/
+
+@，代码托管：pastebin
+https://pastebin.com/u/xiajiang877
+
 1，IPTV链接搜索引擎:
 
 https://www.foodieguide.com/iptvsearch/
@@ -38,9 +46,4 @@ https://al.chirmyram.com/
 https://tivimatepremiumapk.com/
 ![微信截图_20220707193717](https://user-images.githubusercontent.com/95155750/177767042-0e723745-7a5a-4d05-a1ce-bc2c55760692.png)
 
-10，GitHub 代理加速
 
-https://ghproxy.com/
-
-11，代码托管：pastebin
-https://pastebin.com/u/xiajiang877
