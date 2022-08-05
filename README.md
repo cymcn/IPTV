@@ -1,11 +1,11 @@
 # 网络电视
 
 
-0，GitHub 代理加速
+GitHub 代理加速
 
 https://ghproxy.com/
 
-@，代码托管：pastebin
+代码托管：pastebin
 https://pastebin.com/u/xiajiang877
 
 1，IPTV链接搜索引擎:
