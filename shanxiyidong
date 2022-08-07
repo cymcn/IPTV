@@ -36,6 +36,18 @@ http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226227/index.m3u8
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225795/index.m3u8
 #EXTINF:-1 group-title="i",湖南金鹰卡通
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225744/index.m3u8
+#EXTINF:-1 group-title="i" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/hkguojicaijing.png",香港国际财经台
+http://61.10.2.141/live_freedirect/opentvhd002_h.live/index.m3u8
+#EXTINF:-1 group-title="i" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/hongkongkai.png",香港开电视
+http://61.10.2.141/live_freedirect/opentvhd001_h.live/playlist.m3u8
+#EXTINF:-1 group-title="i" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/youxiancaijingzixun.png",香港有线财经资讯台
+http://61.10.2.141/live_freedirect/freehd208_h.live/playlist.m3u8
+#EXTINF:-1 group-title="i" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/youxianxinwen.png",香港有线新闻台
+http://61.10.2.141/live_freedirect/freehd209_h.live/playlist.m3u8
+#EXTINF:-1 group-title="i" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/youxianxinwen.png",香港有线直播台
+http://61.10.2.141/live_freedirect/hd110_h.live/playlist.m3u8
+#EXTINF:-1 group-title="i" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/智林体育台.png",香港智林体育台
+http://58.99.33.16:1935/liveedge17/live_122_3.stream/chunklist.m3u8
 
 #EXTINF:-1 group-title="CCTV",CCTV1 
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226457/index.m3u8
