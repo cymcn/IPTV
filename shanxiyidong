@@ -1,4 +1,42 @@
 #EXTM3U
+
+
+#EXTINF:-1 group-title="中超",广州城VS武汉三镇
+https://e413d7932db9e28e1e0a8c2f0b850448.v.smtcdns.net/txycdn.video.qq.com/285A2B28565B17F1F5F8C5CE75F45CEAC21CCE544761991446FBFF5D94A0F1BD0ACA6AF2949D758FF62D18A3CA88C5A230F62ECE3F45DD53F6887D485E54BD3F3D0C360F9E806651AEB4717161BB3938CE32A7B1E17A341B247122D30AF75F63085991626C4B18DB95952C999B03268940F717752F82C78070A22AE932EB1910/1361721203.m3u8?from=player&cdncode=%2f18907E7BE0798990%2f&time=1659786605&cdn=tcloud&sdtfrom=v402212&platform=40201&butype=2&scheduleflag=0&HLSP2P=1&buname=qqlive&vkey=285A2B28565B17F1F5F8C5CE75F45CEAC21CCE544761991446FBFF5D94A0F1BD0ACA6AF2949D758FF62D18A3CA88C5A230F62ECE3F45DD53F6887D485E54BD3F3D0C360F9E806651AEB4717161BB3938CE32A7B1E17A341B247122D30AF75F63085991626C4B18DB95952C999B03268940F717752F82C78070A22AE932EB1910&dr=0
+ 
+ 
+
+ 
+
+#EXTINF:-1 group-title="i",北京冬奥纪实
+http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226232/index.m3u8
+#EXTINF:-1 group-title="i",足球
+http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226347/index.m3u8
+#EXTINF:-1 group-title="i",体育赛事
+http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226803/index.m3u8
+#EXTINF:-1 group-title="i",精彩体育
+http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226010/index.m3u8
+#EXTINF:-1 group-title="i",台球
+http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226348/index.m3u8
+#EXTINF:-1 group-title="i",SiTV极速汽车
+http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226574/index.m3u8
+#EXTINF:-1 group-title="i",栾坛春秋
+http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226245/index.m3u8
+#EXTINF:-1 group-title="i",置业频道
+http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226241/index.m3u8
+#EXTINF:-1 group-title="i",NNM家庭理财
+http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226244/index.m3u8
+#EXTINF:-1 group-title="i",上海哈哈炫动
+http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226213/index.m3u8
+#EXTINF:-1 group-title="i",北京卡酷少儿
+http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225743/index.m3u8
+#EXTINF:-1 group-title="i",广东嘉佳卡通
+http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226227/index.m3u8
+#EXTINF:-1 group-title="i",江苏优漫卡通
+http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225795/index.m3u8
+#EXTINF:-1 group-title="i",湖南金鹰卡通
+http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225744/index.m3u8
+
 #EXTINF:-1 group-title="CCTV",CCTV1 
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226457/index.m3u8
 #EXTINF:-1 group-title="CCTV",CCTV2 
