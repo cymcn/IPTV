@@ -95,9 +95,9 @@ http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226198/index.m3u8
 
 
 
-#EXTINF:-1 group-title="CCTV",中央新影发现之旅 
+#EXTINF:-1 group-title="CCTV",CCTV发现之旅 
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226235/index.m3u8
-#EXTINF:-1 group-title="CCTV",中央新影老故事 
+#EXTINF:-1 group-title="CCTV",CCTV老故事 
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226236/index.m3u8
 #EXTINF:-1 group-title="CCTV",CCTV女性时尚 
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226237/index.m3u8
@@ -120,6 +120,8 @@ http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226032/index.m3u8
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226547/index.m3u8
 #EXTINF:-1 group-title="卫视",凤凰资讯
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226546/index.m3u8
+#EXTINF:-1 group-title="卫视",河南卫视
+http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221227/index.m3u8
 #EXTINF:-1 group-title="卫视",甘肃卫视
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225754/index.m3u8
 #EXTINF:-1 group-title="卫视",广东南方卫视上星
@@ -134,8 +136,7 @@ http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225793/index.m3u8
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221229/index.m3u8
 #EXTINF:-1 group-title="卫视",河北卫视
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225750/index.m3u8
-#EXTINF:-1 group-title="卫视",河南卫视
-http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221227/index.m3u8
+
 #EXTINF:-1 group-title="卫视",黑龙江卫视
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225802/index.m3u8
 #EXTINF:-1 group-title="卫视",湖北卫视
