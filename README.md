@@ -13,10 +13,12 @@ https://pastebin.com/u/xiajiang877
 
 https://www.foodieguide.com/iptvsearch/
 
-2，IPTV批量生成器:
+
+
+2，IPTV批量生成器：
 
 http://tools.jb51.net/aideddesign/ljscq
- 备注：在线网址链接批量生成器
+
 
 3，直播源列表格式转换 - 黑鸟博客：
 
