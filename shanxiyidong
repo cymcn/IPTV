@@ -53,6 +53,45 @@ http://61.10.2.141/live_freedirect/hd110_h.live/playlist.m3u8
 http://58.99.33.16:1935/liveedge17/live_122_3.stream/chunklist.m3u8    
 
 
+#EXTINF:-1 group-title="CCTV",CCTV1 
+http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226457/index.m3u8
+#EXTINF:-1 group-title="CCTV",CCTV2 
+http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226195/index.m3u8
+#EXTINF:-1 group-title="CCTV",CCTV3 
+http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226397/index.m3u8
+#EXTINF:-1 group-title="CCTV",CCTV4 
+http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226191/index.m3u8
+#EXTINF:-1 group-title="CCTV",CCTV5 
+http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226395/index.m3u8
+#EXTINF:-1 group-title="CCTV",CCTV5+ 
+http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221221/index.m3u8
+#EXTINF:-1 group-title="CCTV",CCTV6 
+http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226393/index.m3u8
+#EXTINF:-1 group-title="CCTV",CCTV7 
+http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226192/index.m3u8
+#EXTINF:-1 group-title="CCTV",CCTV8 
+http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226391/index.m3u8
+#EXTINF:-1 group-title="CCTV",CCTV9 
+http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226197/index.m3u8
+#EXTINF:-1 group-title="CCTV",CCTV10 
+http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226189/index.m3u8
+#EXTINF:-1 group-title="CCTV",CCTV11 
+http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226240/index.m3u8
+
+#EXTINF:-1 group-title="CCTV",CCTV12 
+http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226190/index.m3u8
+#EXTINF:-1 group-title="CCTV",CCTV13 
+http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226233/index.m3u8
+#EXTINF:-1 group-title="CCTV",CCTV14 
+http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226193/index.m3u8
+#EXTINF:-1 group-title="CCTV",CCTV15 
+http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225785/index.m3u8
+#EXTINF:-1 group-title="CCTV",CCTV16 
+http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226921/index.m3u8
+#EXTINF:-1 group-title="CCTV",CCTV17 
+http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226198/index.m3u8
+
+
 
 #EXTINF:-1 group-title="CCTV",中央新影发现之旅 
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226235/index.m3u8
