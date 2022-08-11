@@ -49,4 +49,30 @@ https://al.chirmyram.com/
 https://tivimatepremiumapk.com/
 ![微信截图_20220707193717](https://user-images.githubusercontent.com/95155750/177767042-0e723745-7a5a-4d05-a1ce-bc2c55760692.png)
 
+10，TVBox：
+
+1设置——配置地址——输入你的站源规则——确定即可
+
+在线接口：
+
+https://wds.ecsxs.com/223843.txt
+
+https://kjsc0310.github.io/tvy/jk8.json
+
+https://kjsc0310.github.io/tvy/jk9.json
+
+2.懒人包使用方法
+我的 --> 设置 --> 配置地址 --> 存储权限 --> 允许
+透过扫码或浏览器访问网址 (如 http://172.16.1.xx:9978/)
+假设你已透过上述方式，成功进入"TVBox.接口"配置页面
+配置 --> 上传文件 --> 长按刚刚下载的TVBox.zip 选取 --> 开启 --> 确认上传? --> 确定
+同页面 上方 "请输入自定义配置接口地址" 处 --> 黏贴底下的 配置地址 设定 --> 确定
+本地配置地址1：
+clan://localhost/TVBox/qj.json
+本地配置地址2：
+clan://localhost/TVBox/ts.json
+本地配置地址3：
+clan://localhost/TVBox/top.json
+重启TVBox 生效
+
 
