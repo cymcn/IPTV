@@ -33,6 +33,7 @@ https://cctv5cncc.v.wscdns.com/live/cctv12_1/index.m3u8?adapt=0&BR=audio
 https://cctv5cncc.v.wscdns.com/live/cctv13_1/index.m3u8?adapt=0&BR=audio
 #EXTINF:-1 group-title="电视伴音" tvg-logo="https://github.com/goolguy007/radioer/raw/main/cctv14.png",CCTV-14 少儿
 https://cctv5cncc.v.wscdns.com/live/cctvchild_1/index.m3u8?adapt=0&BR=audio
+
 #EXTINF:-1 group-title="电视伴音" tvg-logo="https://github.com/goolguy007/radioer/raw/main/cctv15.png",CCTV-15 音乐
 https://cctv5cncc.v.wscdns.com/live/cctv15_1/index.m3u8?adapt=0&BR=audio
 #EXTINF:-1 group-title="电视伴音" tvg-logo="https://github.com/goolguy007/radioer/raw/main/cctv16.png",CCTV-16 奥林匹克
