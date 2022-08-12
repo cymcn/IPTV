@@ -112,12 +112,7 @@ http://183.207.249.35/PLTV/3/224/3221226975/index.m3u8
 http://playtv-live.ifeng.com/live/06OLEEWQKN4.m3u8
 #EXTINF:-1 group-title="卫视",凤凰中文
 http://playtv-live.ifeng.com/live/06OLEGEGM4G.m3u8
-#EXTINF:-1,上海都市
-https://epg.pm/stream/f2dd5bbab66331ee7ad303f973c071950026f16f07744493898c1b12749baecf.m3u8
-#EXTINF:-1,上海新闻
-https://epg.pm/stream/6da4094fb824eb2ac7b372e03ce6eac65dddcba6f6114d7d67a66539e1823635.m3u8
-#EXTINF:-1,上海教育
-https://epg.pm/stream/54d39377bb4aaf82d6d6c2e55d243bbdbef54e57902685a14d78c8a915618c9a.m3u8
+
 #EXTINF:-1 group-title="卫视" tvg-logo="https://wtv.tools.bianbingdang.com/prod/api/v1/tvg/logo/云南卫视" tvg-id="云南卫视" tvg-name="云南卫视",云南卫视
 https://epg.pm/stream/569d4e4a34c02766044c605377cb51992b51f6cb4dd3da45df900dfc1b0b8c07.m3u8
 #EXTINF:-1 group-title="卫视" tvg-logo="https://wtv.tools.bianbingdang.com/prod/api/v1/tvg/logo/重庆卫视" tvg-id="重庆卫视" tvg-name="重庆卫视",重庆卫视
