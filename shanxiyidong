@@ -568,3 +568,137 @@ https://wstvalic.v.myalicdn.com/wstv/cetv4_1/index.m3u8?adapt=0&BR=audio
 #EXTINF:-1 group-title="电视伴音" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/diyicaijing.png",第一财经
 http://a1live.livecdn.yicai.com/live/radio_tv.m3u8
  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ #EXTINF:-1 group-title="央视A",CCTV1
+http://111.59.189.40:8445/tsfile/live/1000_1.m3u8
+#EXTINF:-1 group-title="央视A",CCTV2
+http://111.59.189.40:8445/tsfile/live/1001_1.m3u8
+#EXTINF:-1 group-title="央视A",CCTV3
+http://111.59.189.40:8445/tsfile/live/1002_1.m3u8
+#EXTINF:-1 group-title="央视A",CCTV4
+http://111.59.189.40:8445/tsfile/live/1003_1.m3u8
+#EXTINF:-1 group-title="央视A",CCTV5
+http://111.59.189.40:8445/tsfile/live/0113_1.m3u8
+#EXTINF:-1 group-title="央视A",CCTV5+
+http://111.59.189.40:8445/tsfile/live/1018_1.m3u8
+#EXTINF:-1 group-title="央视A",CCTV6
+http://111.59.189.40:8445/tsfile/live/1004_1.m3u8
+#EXTINF:-1 group-title="央视A",CCTV7
+http://111.59.189.40:8445/tsfile/live/1005_1.m3u8
+#EXTINF:-1 group-title="央视A",CCTV8
+http://111.59.189.40:8445/tsfile/live/1006_1.m3u8
+#EXTINF:-1 group-title="央视A",CCTV9
+http://111.59.189.40:8445/tsfile/live/1007_1.m3u8
+#EXTINF:-1 group-title="央视A",CCTV10
+http://111.59.189.40:8445/tsfile/live/1008_1.m3u8
+#EXTINF:-1 group-title="央视A",CCTV12
+http://111.59.189.40:8445/tsfile/live/1010_1.m3u8
+#EXTINF:-1 group-title="央视A",CCTV13
+http://111.59.189.40:8445/tsfile/live/1011_1.m3u8
+#EXTINF:-1 group-title="央视A",CCTV14
+http://111.59.189.40:8445/tsfile/live/1012_1.m3u8
+
+
+
+
+#EXTINF:-1 group-title="电视A",CETV1
+http://111.59.189.40:8445/tsfile/live/1013_1.m3u8
+#EXTINF:-1 group-title="电视A",凤凰香港
+http://111.59.189.40:8445/tsfile/live/1021_1.m3u8
+#EXTINF:-1 group-title="电视A",凤凰中文
+http://111.59.189.40:8445/tsfile/live/1020_1.m3u8
+#EXTINF:-1 group-title="电视A",凤凰电影
+http://111.59.189.40:8445/tsfile/live/1022_1.m3u8
+#EXTINF:-1 group-title="电视A",凤凰资讯
+https://playtv-live.ifeng.com/live/06OLEEWQKN4_tv1.m3u8
+#EXTINF:-1 group-title="电视A",緯來戲劇
+http://61.219.170.95:18557/http/192.168.1.9:8081/hls/69/811/ch33.m3u8
+#EXTINF:-1 group-title="电视A",MUCH TV
+http://61.219.170.95:18558/http/192.168.1.9:8081/hls/72/814/ch45.m3u8
+#EXTINF:-1 group-title="电视A",凰衛視資訊
+http://61.219.170.95:18565/http/192.168.1.9:8078/hls/20/80/phoenixif.m3u8
+#EXTINF:-1 group-title="电视A",momo 綜合台
+http://61.219.170.95:18576/http/192.168.1.9:8081/hls/76/818/momo_max.m3u8
+#EXTINF:-1 group-title="电视A",龍華偶像劇
+http://61.219.170.95:18573/http/192.168.1.9:8066/hls/210/10012/cstv12.m3u8
+#EXTINF:-1 group-title="电视A",八大第一FHD
+http://61.219.170.95:18539/http/192.168.1.9:8081/hls/66/808/ch22.m3u8
+#EXTINF:-1 group-title="电视A",龍華日韓劇
+http://61.219.170.95:18508/http/192.168.1.9:8088/hls/15/80/foxsports2.m3u8
+#EXTINF:-1 group-title="电视A",東風衛視
+http://61.219.170.95:18560/http/192.168.1.9:8081/hls/68/810/ch31.m3u8
+#EXTINF:-1 group-title="电视A",Star World
+http://61.219.170.95:18504/http/192.168.1.9:8081/hls/61/803/ch02.m3u8
+#EXTINF:-1 group-title="电视A",湖南衛視
+http://61.219.170.95:18536/http/192.168.1.9:8078/hls/41/80/huana.m3u8
+#EXTINF:-1 group-title="电视A",鳯凰衛視中文
+http://61.219.170.95:18566/http/192.168.1.9:8078/hls/21/80/phoenixch.m3u8
+#EXTINF:-1 group-title="电视A",衛視電影FHD
+http://61.219.170.95:18529/http/192.168.1.9:8081/hls/62/804/ch07.m3u8
+#EXTINF:-1 group-title="电视A",江蘇衛視
+http://61.219.170.95:8547/http/192.168.1.9:8078/hls/42/80/cctv13.m3u8
+#EXTINF:-1 group-title="电视A",台視FHD
+http://61.219.170.95:18543/http/192.168.1.9:8081/hls/72/814/ch46.m3u8
+#EXTINF:-1 group-title="电视A",衛視中文FHD
+http://61.219.170.95:18522/http/192.168.1.9:8081/hls/62/804/ch05.m3u8
+#EXTINF:-1 group-title="电视A",浙江衛視
+http://61.219.170.95:18534/http/192.168.1.9:8078/hls/41/80/zhejiang.m3u8
+#EXTINF:-1 group-title="电视A",ANIMAX 卡通動畫頻道
+http://61.219.170.95:18550/http/192.168.1.9:8081/hls/70/812/ch39.m3u8
+#EXTINF:-1 group-title="电视A",cNBC
+http://61.219.170.95:18551/http/192.168.1.9:8078/hls/24/80/cnbc90.m3u8
+#EXTINF:-1 group-title="电视A",CCTV13-新聞
+http://61.219.170.95:18537/http/192.168.1.9:8078/hls/41/80/cntv.m3u8
+#EXTINF:-1 group-title="电视A",亞洲旅遊
+http://61.219.170.95:18568/http/192.168.1.9:8081/hls/76/818/ch61.m3u8
+#EXTINF:-1 group-title="电视A",AXN
+http://61.219.170.95:18548/http/192.168.1.9:8081/hls/71/813/ch43.m3u8
+#EXTINF:-1 group-title="电视A",龍華電影台
+http://61.219.170.95:18574/http/192.168.1.9:8066/hls/210/10014/cstv14.m3u8
+#EXTINF:-1 group-title="电视A",緯來育樂FHD
+http://61.219.170.95:18541/http/192.168.1.9:8081/hls/68/810/ch30.m3u8
+#EXTINF:-1 group-title="电视A",家庭影院
+http://58.34.204.67:9901/tsfile/live/1001_1.m3u8
+#EXTINF:-1 group-title="电视A",魅力足球
+http://58.34.204.67:9901/tsfile/live/1004_1.m3u8
+#EXTINF:-1 group-title="电视A",动作电影
+http://58.34.204.67:9901/tsfile/live/1005_1.m3u8
+#EXTINF:-1 group-title="电视A",都市剧场
+http://58.34.204.67:9901/tsfile/live/1008_1.m3u8
+#EXTINF:-1 group-title="电视A",动漫秀场
+http://58.34.204.67:9901/tsfile/live/1009_1.m3u8
+#EXTINF:-1 group-title="电视A",新视觉
+http://58.34.204.67:9901/tsfile/live/1011_1.m3u8
+#EXTINF:-1 group-title="电视A",欢笑剧场
+http://58.34.204.67:9901/tsfile/live/1012_1.m3u8
+#EXTINF:-1 group-title="电视A",五星体育
+http://58.34.204.67:9901/tsfile/live/1014_1.m3u8
+#EXTINF:-1 group-title="电视A",上海纪实
+http://58.34.204.67:9901/tsfile/live/1013_1.m3u8
+#EXTINF:-1 group-title="电视A",上海都市
+http://58.34.204.67:9901/tsfile/live/1017_1.m3u8
+#EXTINF:-1 group-title="电视A",东方影视
+http://58.34.204.67:9901/tsfile/live/1016_1.m3u8
+#EXTINF:-1 group-title="电视A",上海新闻
+http://58.34.204.67:9901/tsfile/live/1015_1.m3u8
+#EXTINF:-1 group-title="电视A",上海外语
+http://58.34.204.67:9901/tsfile/live/1019_1.m3u8
+#EXTINF:-1 group-title="电视A",生活时尚
+http://58.34.204.67:9901/tsfile/live/1020_1.m3u8
+#EXTINF:-1 group-title="电视A",第一财经
+http://58.34.204.67:9901/tsfile/live/1018_1.m3u8
+#EXTINF:-1 group-title="电视A",北京纪实
+http://58.34.204.67:9901/tsfile/live/1002_1.m3u8
+
