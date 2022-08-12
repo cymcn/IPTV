@@ -138,8 +138,7 @@ http://112.132.214.218/liveplay-kk.rtxapp.com/live/program/live/ssty/4000000/mnf
 http://anyun-ship.com:8888/udp/225.1.1.122:5002
 #EXTINF:-1 group-title="中超" tvg-logo="http://n.ysyz.top:99/buyaolian/sdty.png",山东体育
 http://119.164.216.162:9901/tsfile/live/1002_1.m3u8
-#EXTINF:-1 group-title="中超" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/dongaojishi1.png",北京冬奥纪实
-http://117.148.179.157/PLTV/88888888/224/3221233356/index.m3u8
+
 #EXTINF:-1 group-title="中超" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/dongaojishi1.png",北京冬奥纪实
 http://111.6.126.218/hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s6/index.m3u8
 #EXTINF:-1 group-title="中超" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/cdtv5.png",成都公共
@@ -312,32 +311,8 @@ http://39.134.65.164/PLTV/88888888/224/3221225635/1.m3u8
 http://39.134.65.164/PLTV/88888888/224/3221225644/1.m3u8
 #EXTINF:-1 group-title="N咪爱",超级电视剧
 http://39.134.65.164/PLTV/88888888/224/3221225637/1.m3u8
-#EXTINF:-1 group-title="N咪爱" tvg-logo="https://s9.rr.itc.cn/r/wapChange/20171_22_18/a4a8u5974032374500.jpeg",MIGU军旅剧场
-http://117.148.179.134/PLTV/88888888/224/3221231585/index.m3u8
-#EXTINF:-1 group-title="N咪爱" tvg-logo="https://s9.rr.itc.cn/r/wapChange/20171_22_18/a4a8u5974032374500.jpeg",MIGU喜剧联盟
-http://117.148.179.134/PLTV/88888888/224/3221231621/index.m3u8
-#EXTINF:-1 group-title="N咪爱" tvg-logo="https://s9.rr.itc.cn/r/wapChange/20171_22_18/a4a8u5974032374500.jpeg",MIGU TVB剧场
-http://117.148.179.134/PLTV/88888888/224/3221231733/index.m3u8
-#EXTINF:-1 group-title="N咪爱" tvg-logo="https://s9.rr.itc.cn/r/wapChange/20171_22_18/a4a8u5974032374500.jpeg",MIGU古天乐影院
-http://117.148.179.134/PLTV/88888888/224/3221231645/index.m3u8
-#EXTINF:-1 group-title="N咪爱" tvg-logo="https://s9.rr.itc.cn/r/wapChange/20171_22_18/a4a8u5974032374500.jpeg",MIGU成龙作品集
-http://117.148.179.134/PLTV/88888888/224/3221231687/index.m3u8
-#EXTINF:-1 group-title="N咪爱" tvg-logo="https://s9.rr.itc.cn/r/wapChange/20171_22_18/a4a8u5974032374500.jpeg",MIGU郭富城影院
-http://117.148.179.134/PLTV/88888888/224/3221231688/index.m3u8
-#EXTINF:-1 group-title="N咪爱" tvg-logo="https://s9.rr.itc.cn/r/wapChange/20171_22_18/a4a8u5974032374500.jpeg",MIGU云上电影
-http://117.148.179.134/PLTV/88888888/224/3221231565/index.m3u8
-#EXTINF:-1 group-title="N咪爱" tvg-logo="https://s9.rr.itc.cn/r/wapChange/20171_22_18/a4a8u5974032374500.jpeg",MIGU周润发影院
-http://117.148.179.134/PLTV/88888888/224/3221231709/index.m3u8
-#EXTINF:-1 group-title="N咪爱" tvg-logo="https://s9.rr.itc.cn/r/wapChange/20171_22_18/a4a8u5974032374500.jpeg",MIGU葛优作品集
-http://117.148.179.134/PLTV/88888888/224/3221231754/index.m3u8
-#EXTINF:-1 group-title="N咪爱" tvg-logo="https://s9.rr.itc.cn/r/wapChange/20171_22_18/a4a8u5974032374500.jpeg",MIGU刘德华影院
-http://117.148.179.134/PLTV/88888888/224/3221231757/index.m3u8
-#EXTINF:-1 group-title="N咪爱" tvg-logo="https://s9.rr.itc.cn/r/wapChange/20171_22_18/a4a8u5974032374500.jpeg",MIGU僵尸剧场
-http://117.148.179.134/PLTV/88888888/224/3221231742/index.m3u8
-#EXTINF:-1 group-title="N咪爱" tvg-logo="https://s9.rr.itc.cn/r/wapChange/20171_22_18/a4a8u5974032374500.jpeg",MIGU盗墓方法论
-http://117.148.179.134/PLTV/88888888/224/3221231652/index.m3u8
-#EXTINF:-1 group-title="N咪爱" tvg-logo="https://s9.rr.itc.cn/r/wapChange/20171_22_18/a4a8u5974032374500.jpeg",MIGU试胆大会
-http://117.148.179.134/PLTV/88888888/224/3221231672/index.m3u8
+
+
 #EXTINF:-1 group-title="iHOT" tvg-logo="http://n.ysyz.top:99/wuchixialiu/aiyx.png",iHOT爱院线
 http://111.11.123.49:6610/000000001000/6000000006000030630/1.m3u8?Contentid=6000000006000030630&livemode=1&stbId=3&channel-id=wasusyt
 #EXTINF:-1 group-title="iHOT" tvg-logo="http://n.ysyz.top:99/wuchixialiu/aikh.png",iHOT爱科幻
@@ -394,5 +369,4 @@ http://111.11.123.49:6610/000000001000/6000000006000100630/1.m3u8?Contentid=6000
 http://111.11.123.49:6610/000000001000/6000000006000090630/1.m3u8?Contentid=6000000006000090630&livemode=1&stbId=3&channel-id=wasusyt
 #EXTINF:-1 group-title="iHOT" tvg-logo="http://n.ysyz.top:99/wuchixialiu/aidm.png",iHOT爱动漫
 http://111.11.123.49:6610/000000001000/6000000006000280630/1.m3u8?Contentid=6000000006000280630&livemode=1&stbId=3&channel-id=wasusyt
-#EXTINF:-1 group-title="iHOT" tvg-logo="http://pix1.tvzhe.com/images/logo/channel/YJIATV/YJIATV.jpg?1",iHOT Y+频道
-http://live.aikan.miguvideo.com/PLTV/88888888/224/3221230226/index.m3u8
+
