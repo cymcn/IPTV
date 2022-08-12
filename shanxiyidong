@@ -54,6 +54,43 @@ http://61.10.2.141/live_freedirect/hd110_h.live/playlist.m3u8
 http://58.99.33.16:1935/liveedge17/live_122_3.stream/chunklist.m3u8    
 
 
+#EXTM3U
+#EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="秒央视",CCTV1
+http://cache.ott.fifalive.itv.cmvideo.cn:80/1000000001000021973/1.m3u8?Contentid=1000000001000021973&livemode=1&stbId=3&channel-id=ystenlive
+#EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV2.png" group-title="秒央视",CCTV2
+http://cache.ott.fifalive.itv.cmvideo.cn:80/1000000001000012442/1.m3u8?Contentid=1000000001000012442&livemode=1&stbId=3&channel-id=ystenlive
+#EXTINF:-1 tvg-id="3" tvg-name="CCTV3" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV3.png" group-title="秒央视",CCTV3
+http://cache.ott.fifalive.itv.cmvideo.cn:80/1000000001000011218/1.m3u8?Contentid=1000000001000011218&livemode=1&stbId=3&channel-id=ystenlive
+#EXTINF:-1 tvg-id="4" tvg-name="CCTV4" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4.png" group-title="秒央视",CCTV4
+http://cache.ott.fifalive.itv.cmvideo.cn:80/1000000002000031664/1.m3u8?Contentid=1000000002000031664&livemode=1&stbId=3&channel-id=ystenlive
+#EXTINF:-1 tvg-id="5" tvg-name="CCTV5" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5.png" group-title="秒央视",CCTV5
+http://cache.ott.fifalive.itv.cmvideo.cn:80/1000000001000004794/1.m3u8?Contentid=1000000001000004794&livemode=1&stbId=3&channel-id=ystenlive
+#EXTINF:-1 tvg-id="6" tvg-name="CCTV5+" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5+.png" group-title="秒央视",CCTV5+
+http://cache.ott.fifalive.itv.cmvideo.cn:80/1000000001000020505/1.m3u8?Contentid=1000000001000020505&livemode=1&stbId=3&channel-id=ystenlive
+#EXTINF:-1 tvg-id="7" tvg-name="CCTV6" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV6.png" group-title="秒央视",CCTV6
+http://cache.ott.fifalive.itv.cmvideo.cn:80/1000000001000016466/1.m3u8?Contentid=1000000001000016466&livemode=1&stbId=3&channel-id=ystenlive
+#EXTINF:-1 tvg-id="8" tvg-name="CCTV7" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV7.png" group-title="秒央视",CCTV7
+http://cache.ott.fifalive.itv.cmvideo.cn:80/1000000001000017218/1.m3u8?Contentid=1000000001000017218&livemode=1&stbId=3&channel-id=ystenlive
+#EXTINF:-1 tvg-id="9" tvg-name="CCTV8" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV8.png" group-title="秒央视",CCTV8
+http://cache.ott.fifalive.itv.cmvideo.cn:80/1000000001000003736/1.m3u8?Contentid=1000000001000003736&livemode=1&stbId=3&channel-id=ystenlive
+#EXTINF:-1 tvg-id="10" tvg-name="CCTV9" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV9.png" group-title="秒央视",CCTV9
+http://cache.ott.fifalive.itv.cmvideo.cn:80/1000000001000014583/1.m3u8?Contentid=1000000001000014583&livemode=1&stbId=3&channel-id=ystenlive
+#EXTINF:-1 tvg-id="11" tvg-name="CCTV10" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV10.png" group-title="秒央视",CCTV10
+http://cache.ott.fifalive.itv.cmvideo.cn:80/1000000001000026367/1.m3u8?Contentid=1000000001000026367&livemode=1&stbId=3&channel-id=ystenlive
+#EXTINF:-1 tvg-id="12" tvg-name="CCTV11" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV11.png" group-title="秒央视",CCTV11
+http://cache.ott.fifalive.itv.cmvideo.cn:80/1000000002000019789/1.m3u8?Contentid=1000000002000019789&livemode=1&stbId=3&channel-id=ystenlive
+#EXTINF:-1 tvg-id="13" tvg-name="CCTV12" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV12.png" group-title="秒央视",CCTV12
+http://cache.ott.fifalive.itv.cmvideo.cn:80/1000000001000001640/1.m3u8?Contentid=1000000001000001640&livemode=1&stbId=3&channel-id=ystenlive
+#EXTINF:-1 tvg-id="14" tvg-name="CCTV13" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV13.png" group-title="秒央视",CCTV13
+http://cache.ott.fifalive.itv.cmvideo.cn:80/1000000002000021303/1.m3u8?Contentid=1000000002000021303&livemode=1&stbId=3&channel-id=ystenlive
+#EXTINF:-1 tvg-id="15" tvg-name="CCTV14" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV14.png" group-title="秒央视",CCTV14
+http://cache.ott.fifalive.itv.cmvideo.cn:80/1000000001000008170/1.m3u8?Contentid=1000000001000008170&livemode=1&stbId=3&channel-id=ystenlive
+#EXTINF:-1 tvg-id="16" tvg-name="CCTV15" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV15.png" group-title="秒央视",CCTV15
+http://cache.ott.fifalive.itv.cmvideo.cn:80/1000000002000008163/1.m3u8?Contentid=1000000002000008163&livemode=1&stbId=3&channel-id=ystenlive
+#EXTINF:-1 tvg-id="7249" tvg-name="CCTV16" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV16.png" group-title="秒央视",CCTV16
+http://cache.ott.fifalive.itv.cmvideo.cn:80/1000000006000233002/1.m3u8?Contentid=1000000006000233002&livemode=1&stbId=3&channel-id=ystenlive
+#EXTINF:-1 tvg-id="17" tvg-name="CCTV17" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV17.png" group-title="秒央视",CCTV17
+http://cache.ott.fifalive.itv.cmvideo.cn:80/1000000005000056836/1.m3u8?Contentid=1000000005000056836&livemode=1&stbId=3&channel-id=ystenlive
 
 
 #EXTINF:-1 group-title="CCTV" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png",CCTV1
