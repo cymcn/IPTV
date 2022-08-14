@@ -7,7 +7,7 @@ https://ghproxy.com/
 
 代码托管：pastebin
 
-https://pastebin.com/u/xiajiang877
+https://pastebin.com/u/xiajiang8**
 
 1，IPTV链接搜索引擎:
 
