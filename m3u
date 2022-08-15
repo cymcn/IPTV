@@ -51,6 +51,8 @@ http://nas.tuyuannet.cn:8800/rtp/239.37.0.163:5540
 #EXTM3U
 
 
+#EXTINF:-1 group-title="卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/henan.png",河南卫视4K
+http://xingyang.net.cn:4000/udp/225.1.4.254:1300
 
 #EXTINF:-1 group-title="卫视" tvg-logo="https://wtv.tools.bianbingdang.com/prod/api/v1/tvg/logo/浙江卫视" tvg-id="浙江卫视" tvg-name="浙江卫视",浙江卫视
 https://epg.pm/stream/71f648c950d1d02245d2cbf26b90144329a4e1f844466b21125dee66f4e6add7.m3u8
