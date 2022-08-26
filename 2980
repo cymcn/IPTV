@@ -1,120 +1,4 @@
 #EXTM3U
-#EXTINF:-1 ,八大戏剧
-http://50.7.220.74:8278/badadrama/playlist.m3u8?tid=ME3E7432781774327817&ct=19193&tsum=504532547ffc646858157dd724bca18d
-#EXTINF:-1 ,八大戏剧
-http://50.7.220.74:8278/badadrama/playlist.m3u8?tid=m4970c4e1b988&ct=18335&tsum=20cb1d15d4e116ab9e44edb542cf51a5
-#EXTINF:-1 ,八大戏剧
-http://50.7.220.74:8278/badadrama/playlist.m3u8?tid=m6e4372d7fc8217605152&ct=17874&tsum=d9af89e299560350336e22c1418e6b54
-#EXTINF:-1 ,八大综合
-http://50.7.220.74:8278/badazhonghe/playlist.m3u8?tid=mfb8d64b6276514171054&ct=17874&tsum=a87466c997089ea7dce98cd17301667d
-#EXTINF:-1 ,八大綜合
-http://50.7.220.74:8278/badazhonghe/playlist.m3u8?tid=MC5C5422299054222990&ct=19193&tsum=8189d5b21bdeabdffa3d2b2cbeaae0ae
-#EXTINF:-1 ,东森电影
-http://50.7.220.74:8278/ettvmovie/playlist.m3u8?tid=MEDE1688528216885282&ct=19193&tsum=843fbd698e260c1fcda128dce85ead3b
-#EXTINF:-1 ,东森新闻
-http://50.7.220.74:8278/ettvnews/playlist.m3u8?tid=ME5E8863997888639978&ct=19193&tsum=6b0236441f10a7195fb35fe7997db68c
-#EXTINF:-1 ,东森洋片
-http://50.7.220.74:8278/ettvwestern/playlist.m3u8?tid=MA6A9686180296861802&ct=19193&tsum=79b2173b4455c70b50330eed478049a4
-#EXTINF:-1 ,龙华偶像
-http://59.125.122.90:18573/http/192.168.1.9:8066/hls/210/10012/cstv12.m3u8
-#EXTINF:-1 ,龙华日韩
-http://59.125.122.90:18508/.m3u8
-#EXTINF:-1 ,民视新闻
-http://60.251.33.252:18563/.m3u8
-#EXTINF:-1 ,三立戏剧
-http://50.7.220.74:8278/sanlixiju_twn/playlist.m3u8?tid=MCFC5174201151742011&ct=19193&tsum=27477ddeec029345da276c2c903f09c2
-#EXTINF:-1 ,台视
-http://123.51.229.65:18543/http/192.168.1.9:8081/hls/72/814/ch46.m3u8
-#EXTINF:-1 ,纬来育乐
-http://123.51.229.65:18541/.m3u8
-#EXTINF:-1 ,中视新闻
-http://50.7.220.74:8278/zhongshinews_twn/playlist.m3u8?tid=MAAA4459856044598560&ct=19193&tsum=1b7bdea69c00cd48e31f13442c75c376
-#EXTINF:-1 ,中天新闻
-http://60.251.39.247:8504/http/192.168.77.24:8081/hls/78/80/ch63max.m3u8
-#EXTINF:-1 ,中天新闻
-http://123.51.230.124:8535/.m3u8
-#EXTINF:-1 ,中天亚洲台
-http://50.7.220.74:8278/ctiasia_twn/playlist.m3u8?tid=MFFF9983745599837455&ct=19193&tsum=ee61e179a8c619a076c515514d68e24e
-#EXTINF:-1 ,中天综合
-http://50.7.220.74:8278/ctizhonghe/playlist.m3u8?tid=MBBB1520797915207979&ct=19193&tsum=3a6f7f0c591c2ec6678d51b741f290b2
-#EXTINF:-1 ,JET综合
-http://50.7.220.74:8278/jettv_japan/playlist.m3u8?tid=mec9806b42012&ct=18335&tsum=e4518647627cab22a9faca0710d987ec
-#EXTINF:-1 ,MOMO综合
-http://59.125.122.90:18576/.m3u8
-#EXTINF:-1 ,澳门体育
-http://103.233.191.133:1935/ch4/sport_ch4.live/playlist.m3u8
-#EXTINF:-1 ,澳门体育
-http://103.233.191.132:1935/ch4/sport_ch4.live/playlist.m3u8
-#EXTINF:-1 ,澳门体育
-http://103.233.191.134:1935/ch4/sport_ch4.live/playlist.m3u8
-#EXTINF:-1 ,澳门体育
-http://61.244.22.4/ch4/sport_ch4.live/master.m3u8
-#EXTINF:-1 ,澳门资讯
-http://61.244.22.4/ch5/info_ch5.live/chunklist_w1046558591.m3u8
-#EXTINF:-1 ,澳门资讯
-http://103.233.191.134:1935/ch5/info_ch5.live/playlist.m3u8
-#EXTINF:-1 ,澳门资讯
-http://103.233.191.133:1935/ch5/info_ch5.live/playlist.m3u8
-#EXTINF:-1 ,澳门综艺
-http://103.233.191.133:1935/ch6/hd_ch6.live/playlist.m3u8
-#EXTINF:-1 ,澳门综艺
-http://103.233.191.134:1935/ch6/hd_ch6.live/playlist.m3u8
-#EXTINF:-1 ,澳门综艺
-http://103.233.191.132:1935/ch6/hd_ch6.live/playlist.m3u8
-#EXTINF:-1 ,澳门综艺
-http://61.244.22.4/ch6/_definst_/hd_ch6.live/playlist.m3u8
-#EXTINF:-1 ,澳门Macau
-http://61.244.22.4/ch3/ch3.live/index.m3u8
-#EXTINF:-1 ,澳门Macau
-http://61.244.22.4/ch3/ch3.live/chunklist_w1228316132.m3u8
-#EXTINF:-1 ,澳门Macau
-http://103.233.191.133:1935/ch3/ch3.live/playlist.m3u8
-#EXTINF:-1 ,澳门Macau
-http://61.244.22.4/ch2/ch2.live/playelist.m3u8
-#EXTINF:-1 ,澳门Macau
-http://61.244.22.4/ch3/ch3.live/playelist.m3u8
-#EXTINF:-1 ,澳门Macau
-http://103.233.191.134:1935/ch3/ch3.live/playlist.m3u8
-#EXTINF:-1 ,澳视澳门
-http://103.233.191.133:1935/ch1/ch1.live/playlist.m3u8
-#EXTINF:-1 ,澳视澳门
-http://103.233.191.134:1935/ch1/ch1.live/playlist.m3u8
-#EXTINF:-1 ,澳视澳门
-http://61.244.22.5/ch1/ch1.live/playelist.m3u8
-#EXTINF:-1 ,澳视葡文
-http://103.233.191.132:1935/ch2/ch2.live/playlist.m3u8
-#EXTINF:-1 ,澳视葡文
-http://103.233.191.134:1935/ch2/ch2.live/playlist.m3u8
-#EXTINF:-1 ,澳视葡文
-http://103.233.191.133:1935/ch2/ch2.live/playlist.m3u8
-#EXTINF:-1 ,澳视葡文
-http://61.244.22.4/ch2/ch2.live/chunklist_w1632175875.m3u8
-#EXTINF:-1 ,翡翠华丽
-http://23.237.10.66:16410
-#EXTINF:-1 ,翡翠台
-http://23.237.10.66:16106
-#EXTINF:-1 ,翡翠台
-http://50.7.168.234:8278/jade_twn/playlist.m3u8?tid=m51e8c5582227&ct=18336&tsum=d0987332bec9b0fecc98b9b9ff3ddeac
-#EXTINF:-1 ,凤凰电影
-http://111.59.189.40:8445/tsfile/live/1022_1.m3u8
-#EXTINF:-1 ,凤凰资讯
-http://playtv-live.ifeng.com/live/06OLEEWQKN4.m3u8?
-#EXTINF:-1 ,凤凰资讯
-https://playtv-live.ifeng.com/live/06OLEEWQKN4_tv2.m3u8
-#EXTINF:-1 ,凤凰资讯
-http://play-live.ifeng.com/live/06OLEEWQKN4.m3u8
-#EXTINF:-1 ,经典功夫台
-https://cn-hbyc2-dx-live-01.bilivideo.com/live-bvc/545768/live_179302204_68184269.m3u8
-#EXTINF:-1 ,无线新闻
-https://bcovlive-a.akamaihd.net/38974baa695d47bbb231665ca52b8b3c/us-west-2/5324042807001/playlist.m3u8
-#EXTINF:-1 ,无线新闻
-http://23.237.10.66:16110
-#EXTINF:-1 ,无线新闻
-https://bcovlive-a.akamaihd.net/38974baa695d47bbb231665ca52b8b3c/us-west-2/5324042807001/95ea73e414b14b7ea6406050a5293f17/playlist_ssaiM.m3u8
-#EXTINF:-1 ,HTV4
-https://livecdn.fptplay.net/sdb/htv4_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 ,j2
-http://198.16.64.10:8278/j2_twn/playlist.m3u8?tid=m22905da1d346&ct=18336&tsum=3b4998c4f5367bb820165f66b0caab0e
 #EXTINF:-1 ,吴孟达
 http://txtest-xp2p.p2p.huya.com/src/1388457235-1388457235-5963378416219586560-2777037926-10057-A-0-1.xs
 #EXTINF:-1 ,林正英
@@ -269,6 +153,124 @@ http://111.20.33.93/TVOD/88888893/224/3221226465/index.m3u8
 http://111.20.33.70/PLTV/88888893/224/3221226462/index.m3u8
 #EXTINF:-1 ,CHC家庭影院
 http://111.20.33.93/TVOD/88888893/224/3221226462/index.m3u8
+
+#EXTINF:-1 ,八大戏剧
+http://50.7.220.74:8278/badadrama/playlist.m3u8?tid=ME3E7432781774327817&ct=19193&tsum=504532547ffc646858157dd724bca18d
+#EXTINF:-1 ,八大戏剧
+http://50.7.220.74:8278/badadrama/playlist.m3u8?tid=m4970c4e1b988&ct=18335&tsum=20cb1d15d4e116ab9e44edb542cf51a5
+#EXTINF:-1 ,八大戏剧
+http://50.7.220.74:8278/badadrama/playlist.m3u8?tid=m6e4372d7fc8217605152&ct=17874&tsum=d9af89e299560350336e22c1418e6b54
+#EXTINF:-1 ,八大综合
+http://50.7.220.74:8278/badazhonghe/playlist.m3u8?tid=mfb8d64b6276514171054&ct=17874&tsum=a87466c997089ea7dce98cd17301667d
+#EXTINF:-1 ,八大綜合
+http://50.7.220.74:8278/badazhonghe/playlist.m3u8?tid=MC5C5422299054222990&ct=19193&tsum=8189d5b21bdeabdffa3d2b2cbeaae0ae
+#EXTINF:-1 ,东森电影
+http://50.7.220.74:8278/ettvmovie/playlist.m3u8?tid=MEDE1688528216885282&ct=19193&tsum=843fbd698e260c1fcda128dce85ead3b
+#EXTINF:-1 ,东森新闻
+http://50.7.220.74:8278/ettvnews/playlist.m3u8?tid=ME5E8863997888639978&ct=19193&tsum=6b0236441f10a7195fb35fe7997db68c
+#EXTINF:-1 ,东森洋片
+http://50.7.220.74:8278/ettvwestern/playlist.m3u8?tid=MA6A9686180296861802&ct=19193&tsum=79b2173b4455c70b50330eed478049a4
+#EXTINF:-1 ,龙华偶像
+http://59.125.122.90:18573/http/192.168.1.9:8066/hls/210/10012/cstv12.m3u8
+#EXTINF:-1 ,龙华日韩
+http://59.125.122.90:18508/.m3u8
+#EXTINF:-1 ,民视新闻
+http://60.251.33.252:18563/.m3u8
+#EXTINF:-1 ,三立戏剧
+http://50.7.220.74:8278/sanlixiju_twn/playlist.m3u8?tid=MCFC5174201151742011&ct=19193&tsum=27477ddeec029345da276c2c903f09c2
+#EXTINF:-1 ,台视
+http://123.51.229.65:18543/http/192.168.1.9:8081/hls/72/814/ch46.m3u8
+#EXTINF:-1 ,纬来育乐
+http://123.51.229.65:18541/.m3u8
+#EXTINF:-1 ,中视新闻
+http://50.7.220.74:8278/zhongshinews_twn/playlist.m3u8?tid=MAAA4459856044598560&ct=19193&tsum=1b7bdea69c00cd48e31f13442c75c376
+#EXTINF:-1 ,中天新闻
+http://60.251.39.247:8504/http/192.168.77.24:8081/hls/78/80/ch63max.m3u8
+#EXTINF:-1 ,中天新闻
+http://123.51.230.124:8535/.m3u8
+#EXTINF:-1 ,中天亚洲台
+http://50.7.220.74:8278/ctiasia_twn/playlist.m3u8?tid=MFFF9983745599837455&ct=19193&tsum=ee61e179a8c619a076c515514d68e24e
+#EXTINF:-1 ,中天综合
+http://50.7.220.74:8278/ctizhonghe/playlist.m3u8?tid=MBBB1520797915207979&ct=19193&tsum=3a6f7f0c591c2ec6678d51b741f290b2
+#EXTINF:-1 ,JET综合
+http://50.7.220.74:8278/jettv_japan/playlist.m3u8?tid=mec9806b42012&ct=18335&tsum=e4518647627cab22a9faca0710d987ec
+#EXTINF:-1 ,MOMO综合
+http://59.125.122.90:18576/.m3u8
+#EXTINF:-1 ,澳门体育
+http://103.233.191.133:1935/ch4/sport_ch4.live/playlist.m3u8
+#EXTINF:-1 ,澳门体育
+http://103.233.191.132:1935/ch4/sport_ch4.live/playlist.m3u8
+#EXTINF:-1 ,澳门体育
+http://103.233.191.134:1935/ch4/sport_ch4.live/playlist.m3u8
+#EXTINF:-1 ,澳门体育
+http://61.244.22.4/ch4/sport_ch4.live/master.m3u8
+#EXTINF:-1 ,澳门资讯
+http://61.244.22.4/ch5/info_ch5.live/chunklist_w1046558591.m3u8
+#EXTINF:-1 ,澳门资讯
+http://103.233.191.134:1935/ch5/info_ch5.live/playlist.m3u8
+#EXTINF:-1 ,澳门资讯
+http://103.233.191.133:1935/ch5/info_ch5.live/playlist.m3u8
+#EXTINF:-1 ,澳门综艺
+http://103.233.191.133:1935/ch6/hd_ch6.live/playlist.m3u8
+#EXTINF:-1 ,澳门综艺
+http://103.233.191.134:1935/ch6/hd_ch6.live/playlist.m3u8
+#EXTINF:-1 ,澳门综艺
+http://103.233.191.132:1935/ch6/hd_ch6.live/playlist.m3u8
+#EXTINF:-1 ,澳门综艺
+http://61.244.22.4/ch6/_definst_/hd_ch6.live/playlist.m3u8
+#EXTINF:-1 ,澳门Macau
+http://61.244.22.4/ch3/ch3.live/index.m3u8
+#EXTINF:-1 ,澳门Macau
+http://61.244.22.4/ch3/ch3.live/chunklist_w1228316132.m3u8
+#EXTINF:-1 ,澳门Macau
+http://103.233.191.133:1935/ch3/ch3.live/playlist.m3u8
+#EXTINF:-1 ,澳门Macau
+http://61.244.22.4/ch2/ch2.live/playelist.m3u8
+#EXTINF:-1 ,澳门Macau
+http://61.244.22.4/ch3/ch3.live/playelist.m3u8
+#EXTINF:-1 ,澳门Macau
+http://103.233.191.134:1935/ch3/ch3.live/playlist.m3u8
+#EXTINF:-1 ,澳视澳门
+http://103.233.191.133:1935/ch1/ch1.live/playlist.m3u8
+#EXTINF:-1 ,澳视澳门
+http://103.233.191.134:1935/ch1/ch1.live/playlist.m3u8
+#EXTINF:-1 ,澳视澳门
+http://61.244.22.5/ch1/ch1.live/playelist.m3u8
+#EXTINF:-1 ,澳视葡文
+http://103.233.191.132:1935/ch2/ch2.live/playlist.m3u8
+#EXTINF:-1 ,澳视葡文
+http://103.233.191.134:1935/ch2/ch2.live/playlist.m3u8
+#EXTINF:-1 ,澳视葡文
+http://103.233.191.133:1935/ch2/ch2.live/playlist.m3u8
+#EXTINF:-1 ,澳视葡文
+http://61.244.22.4/ch2/ch2.live/chunklist_w1632175875.m3u8
+#EXTINF:-1 ,翡翠华丽
+http://23.237.10.66:16410
+#EXTINF:-1 ,翡翠台
+http://23.237.10.66:16106
+#EXTINF:-1 ,翡翠台
+http://50.7.168.234:8278/jade_twn/playlist.m3u8?tid=m51e8c5582227&ct=18336&tsum=d0987332bec9b0fecc98b9b9ff3ddeac
+#EXTINF:-1 ,凤凰电影
+http://111.59.189.40:8445/tsfile/live/1022_1.m3u8
+#EXTINF:-1 ,凤凰资讯
+http://playtv-live.ifeng.com/live/06OLEEWQKN4.m3u8?
+#EXTINF:-1 ,凤凰资讯
+https://playtv-live.ifeng.com/live/06OLEEWQKN4_tv2.m3u8
+#EXTINF:-1 ,凤凰资讯
+http://play-live.ifeng.com/live/06OLEEWQKN4.m3u8
+#EXTINF:-1 ,经典功夫台
+https://cn-hbyc2-dx-live-01.bilivideo.com/live-bvc/545768/live_179302204_68184269.m3u8
+#EXTINF:-1 ,无线新闻
+https://bcovlive-a.akamaihd.net/38974baa695d47bbb231665ca52b8b3c/us-west-2/5324042807001/playlist.m3u8
+#EXTINF:-1 ,无线新闻
+http://23.237.10.66:16110
+#EXTINF:-1 ,无线新闻
+https://bcovlive-a.akamaihd.net/38974baa695d47bbb231665ca52b8b3c/us-west-2/5324042807001/95ea73e414b14b7ea6406050a5293f17/playlist_ssaiM.m3u8
+#EXTINF:-1 ,HTV4
+https://livecdn.fptplay.net/sdb/htv4_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 ,j2
+http://198.16.64.10:8278/j2_twn/playlist.m3u8?tid=m22905da1d346&ct=18336&tsum=3b4998c4f5367bb820165f66b0caab0e
+
 #EXTINF:-1 ,CCTV1
 http://39.134.66.110/PLTV/88888888/224/3221225816/index.m3u8
 #EXTINF:-1 ,CCTV2
