@@ -9,6 +9,26 @@ https://ghproxy.com/
 
 https://pastebin.com/u/xiajiang8**
 
+
+0，EPG-电子节目单：
+
+ 网站A
+ http://124.223.212.38:83/
+ http://124.223.212.38:83/douyu/xxx
+ http://124.223.212.38:83/huya/xxx
+
+ 网站B
+ http://diyp.112114.xyz/
+ http://diyp.112114.xyz/douyu/yyy
+ http://diyp.112114.xyz/huya/yyy
+
+ 网站C
+ http://epg.112114.xyz/
+ http://epg.112114.xyz/douyu/zzz
+ http://epg.112114.xyz/huya/zzz
+
+
+
 1，IPTV链接搜索引擎:
 
 https://www.foodieguide.com/iptvsearch/
