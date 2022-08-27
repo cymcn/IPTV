@@ -5,9 +5,9 @@ GitHub 代理加速
 
 https://ghproxy.com/
 
-代码托管：pastebin
+代码托管：pastebin                      代码 短网址 IPTV     
 
-https://pastebin.com/u/xiajiang8**
+https://pastebin.com/u/xiajiang8**     https://wmlabs.net/
 
 
 0，EPG-电子节目单：
@@ -67,7 +67,7 @@ https://al.chirmyram.com/
 9，tivimate
 
 https://tivimatepremiumapk.com/
-![微信截图_20220707193717](https://user-images.githubusercontent.com/95155750/177767042-0e723745-7a5a-4d05-a1ce-bc2c55760692.png)
+ 
 
 10，TVBox：
 
