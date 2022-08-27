@@ -5,9 +5,13 @@ GitHub 代理加速
 
 https://ghproxy.com/
 
-代码托管：pastebin                      代码 短网址 IPTV     
+代码托管：pastebin                       
 
-https://pastebin.com/u/xiajiang8**     https://wmlabs.net/
+https://pastebin.com/u/xiajiang8**    
+
+代码 短网址 IPTV：
+
+https://wmlabs.net/
 
 
 0，EPG-电子节目单：
