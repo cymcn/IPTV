@@ -263,6 +263,23 @@ http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225766/index.m3u8
 
 #EXTINF:-1 group-title="省内",咸阳1
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226372/index.m3u8
+#EXTINF:-1 group-title="省内",陕西一套
+http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226357/index.m3u8
+#EXTINF:-1 group-title="省内",陕西二套
+http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226358/index.m3u8
+#EXTINF:-1 group-title="省内",陕西三套
+http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226359/index.m3u8
+#EXTINF:-1 group-title="省内",陕西四套
+http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226360/index.m3u8
+#EXTINF:-1 group-title="省内",陕西五套
+http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226361/index.m3u8
+#EXTINF:-1 group-title="省内",陕西西部电影
+http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226364/index.m3u8
+#EXTINF:-1 group-title="省内",陕西七套
+http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226363/index.m3u8
+
+#EXTINF:-1 group-title="省内",陕视直播
+http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226408/index.m3u8
 #EXTINF:-1 group-title="省内",西安丝路
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226370/index.m3u8
 #EXTINF:-1 group-title="省内",西安教育
@@ -283,22 +300,7 @@ http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226380/index.m3u8
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226379/index.m3u8
 #EXTINF:-1 group-title="省内",商洛1
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226378/index.m3u8
-#EXTINF:-1 group-title="省内",陕西影视
-http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226360/index.m3u8
-#EXTINF:-1 group-title="省内",陕西新闻资讯
-http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226357/index.m3u8
-#EXTINF:-1 group-title="省内",陕西西部电影
-http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226364/index.m3u8
-#EXTINF:-1 group-title="省内",陕西体育休闲
-http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226363/index.m3u8
-#EXTINF:-1 group-title="省内",陕西生活
-http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226358/index.m3u8
-#EXTINF:-1 group-title="省内",陕西生活
-http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226359/index.m3u8
-#EXTINF:-1 group-title="省内",陕西公共
-http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226361/index.m3u8
-#EXTINF:-1 group-title="省内",陕视直播
-http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226408/index.m3u8
+
 #EXTINF:-1 group-title="省内",千阳
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226945/index.m3u8
 #EXTINF:-1 group-title="省内",宁强2
