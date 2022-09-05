@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="http://epg.51zmt.top:8000/cc.xml,http://epg.51zmt.top:8000/difang.xml,https://epg-cn.4ksetup.com/o.xml,http://epg.51zmt.top:8000/e.xml,https://epg.112114.xyz/pp.xml,https://files.3y1.xyz/static/sitemap/ott_xmltv.xml"
+#EXTM3U url-tvg="http://epg.51zmt.top:8000/e.xml,https://epg.112114.xyz/pp.xml"
 
 #EXTINF:-1 group-title="央视" tvg-logo="https://wtv.tools.bianbingdang.com/prod/api/v1/tvg/logo/CCTV1" tvg-id="CCTV1" tvg-name="CCTV1",CCTV-1 综合
 https://epg.pm/stream/396cc63b395ac7b6873c2fc4f8a4469e518ff1720667f06ba06b0938c4be8d02.m3u8
