@@ -1,4 +1,5 @@
-#EXTM3U
+
+#EXTM3U url-tvg="http://epg.51zmt.top:8000/e.xml,https://epg.112114.xyz/pp.xml"
 
 
 #EXTINF:-1 group-title="IPTV" tvg-logo="https://img.tukuppt.com/png_preview/00/21/16/9Nilla0ZLz.jpg!/fw/780",,中超VS中超
