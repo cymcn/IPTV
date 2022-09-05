@@ -76,3 +76,6 @@ https://tivimatepremiumapk.com/
 10，TVBox：
 
  https://raw.githubusercontent.com/cymcn/IPTV/main/TVBox%E8%AE%BE%E7%BD%AE%E4%BD%BF%E7%94%A8%E6%96%B9%E6%B3%95  
+ 
+ 11.用代码自动化
+ 
