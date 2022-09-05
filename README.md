@@ -13,8 +13,12 @@ https://pastebin.com/u/xiajiang8**
 
 https://wmlabs.net/
 
+代码自动化
 
-0，EPG-电子节目单：
+https://raw.githubusercontent.com/cymcn/IPTV/main/%E7%94%A8%E4%BB%A3%E7%A0%81%E8%87%AA%E5%8A%A8%E5%8C%96
+
+
+#EPG-电子节目单：
 
  网站A
  http://124.223.212.38:83/
@@ -77,24 +81,5 @@ https://tivimatepremiumapk.com/
 
  https://raw.githubusercontent.com/cymcn/IPTV/main/TVBox%E8%AE%BE%E7%BD%AE%E4%BD%BF%E7%94%A8%E6%96%B9%E6%B3%95  
  
- 11.用代码自动化
  
-#EXTM3U x-tvg-url="https:.......epg.xml,https:.......epg.xml,.....epg.xml,......epg.xml"
-#EXTINF:-1 tvg-id="AlJazeeraEnglish.qa" tvg-country="INT" tvg-language="English" tvg-logo="https:......png" group-title="News",Al Jazeera English (1080p)
-https://.........m3u8
-
-#EXTINF:-1 tvg-id="BabyTV.uk" tvg-country="INT" tvg-language="English" tvg-logo="https:......png" group-title="Kids" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36",Baby TV Asia (Vietnamese dub) (1080p)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36
-https://livecdn.fptplay.net/hda3/babytvhd_vhls.smil/chunklist.m3u8
-
-#EXTINF:-1 tvg-id="BBCEarthAsia.uk" tvg-country="ASIA" tvg-language="Chinese;English;Thai;Vietnamese" tvg-logo="https://i.imgur.com/xXM60fa.png" group-title="Undefined" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36",BBC Earth (Vietnamese dub) (1080p)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36
-https:/.........m3u8
-
-
-#EXTM3U这一行作为文件头声明m3u8文件格式以及引用一些电子节目单，通过这个电子节目单你就可以在播放列表中看到对应资源会显示当前播放的节目。
-
-#EXTIN 这一行是直播资源的相关信息，比如语言，节目名等。 #EXTVLCOPT 似乎可以用来指定user-agent, 并不是每一个资源都有。
-
-http://或https://开头的行就是具体的播放资源链接了。
  
