@@ -13,7 +13,7 @@ https://pastebin.com/u/xiajiang8**
 
 https://wmlabs.net/
 
-代码自动化
+代码说明
 
 https://raw.githubusercontent.com/cymcn/IPTV/main/%E7%94%A8%E4%BB%A3%E7%A0%81%E8%87%AA%E5%8A%A8%E5%8C%96
 
