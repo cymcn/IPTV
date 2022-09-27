@@ -82,7 +82,7 @@ https://tivimatepremiumapk.com/
  
 
 10，TVBox：
-一版版本；四角绝版；_支持Webdav加音轨版本；回看EPG版本
+一版版本；四角绝版；支持Webdav加音轨版本；回看EPG版本
 https://raw.githubusercontent.com/cymcn/IPTV/main/TVBox%E8%AE%BE%E7%BD%AE%E5%92%8C%E4%BD%BF%E7%94%A8
  
  
