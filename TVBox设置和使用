@@ -6,9 +6,16 @@ TVBox：
    
 接口：
       https://www.yydsys.top/box/api/
+      https://e40.cn/yyds
+         "proxy://do=live&type=txt&ext=aHR0cHM6Ly9hZ2l0LmFpL2xlZXZpL2FwcHMvcmF3L2JyYW5jaC9tYWluL3R4dC8zNi50eHQ="
+      
       https://codeberg.org/iptv/tv/raw/branch/main/tvbox.json
-      http://byyds.top/w.txt
-      https://wds.ecsxs.com/223843.txt (更改：http://byyds.top/w.txt)
+         "proxy://do=live&type=txt&ext=aHR0cDovL2hvbWUuanVuZGllLnRvcDo4MS9DYXQvdHYvbGl2ZS50eHQ=" （全面）
+      
+      http://byyds.top/w.txt  
+         "proxy://do=live&type=txt&ext=aHR0cDovL3d3dy5tOTUyNy50b3AvbWwudHh0"
+         
+    备注：https://wds.ecsxs.com/223843.txt (更改：http://byyds.top/w.txt)
 
 
 
