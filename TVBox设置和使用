@@ -1,33 +1,20 @@
 TVBox：
+   一般版本；四角绝版；支持Webdav加音轨版本（用这个）；回看EPG版本
    公众号：https://yydsys.top/（多多应用）
    公众号：https://www.fenxm.com/(分享迷，回复：接口)
-   一般版本；四角绝版；支持Webdav加音轨版本（用这个）；回看EPG版本
- 
+   公众号：https://codeberg.org/iptv/tv
+   
 接口：
       https://www.yydsys.top/box/api/
+      https://codeberg.org/iptv/tv/raw/branch/main/tvbox.json
       http://byyds.top/w.txt
       https://wds.ecsxs.com/223843.txt (更改：http://byyds.top/w.txt)
 
 
 
+设置:
 
-原wds.ecsxs.com/223……链接的托管平台不让用，所以换个
-（手动输入链接时注意开头是http，不是https）
-
-https://pan.lanzoui.com/b0ah4ju9a
-
-本地接口文件：
-< a href=" " _src="https://pan.lanzoub.com/ik8Jl0bwbe2b">https://pan.lanzoub.com/ik8Jl0bwbe2b</ a>
-  
-【接口链接】：
-
-http://byyds.top/w.txt
-
-
-
-
-
-1设置——配置地址——输入你的站源规则——确定即可
+ 1.——配置地址——输入你的站源规则——确定即可
 
  在线接口：
 
