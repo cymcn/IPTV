@@ -68,10 +68,13 @@ http://17ce.com/site
 https://tivimatepremiumapk.com/
  
 
-# TVBox（支持Webdav音轨）：
+# TVBox：
+使用：
 https://raw.githubusercontent.com/cymcn/IPTV/main/TVBox%E8%AE%BE%E7%BD%AE%E5%92%8C%E4%BD%BF%E7%94%A8
-
+接口：
 https://raw.githubusercontent.com/cymcn/IPTV/main/TVBOX%E6%8E%A5%E5%8F%A3
+仓库：
+https://agit.ai/explore/repos?q=TVBOX
 
 # Base64编码解码工具：
 https://www.iamwawa.cn/base64.html
