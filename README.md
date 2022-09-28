@@ -6,7 +6,7 @@ https://ghproxy.com/
 # 代码托管：pastebin                       
 https://pastebin.com/u/xiajiang8**    
 
-# 代码 短网址 IPTV：
+# 代码 短网址链接 ：
 https://wmlabs.net/
 
 代码说明
