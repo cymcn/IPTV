@@ -13,21 +13,7 @@ https://wmlabs.net/
 https://raw.githubusercontent.com/cymcn/IPTV/main/%E7%94%A8%E4%BB%A3%E7%A0%81%E8%87%AA%E5%8A%A8%E5%8C%96
 
 
-# EPG-电子节目单：
- 网站A
- http://124.223.212.38:83/
- http://124.223.212.38:83/douyu/xxx
- http://124.223.212.38:83/huya/xxx
 
- 网站B
- http://diyp.112114.xyz/
- http://diyp.112114.xyz/douyu/yyy
- http://diyp.112114.xyz/huya/yyy
-
- 网站C
- http://epg.112114.xyz/
- http://epg.112114.xyz/douyu/zzz
- http://epg.112114.xyz/huya/zzz
 
 
 # 七米蓝的仓库
@@ -53,6 +39,22 @@ http://epg.51zmt.top:8000/
 
 # EPG节目预告源地址，实时更新：
 http://epg.51zmt.top:8000/e.xml
+
+# EPG-电子节目单：
+ 网站A
+ http://124.223.212.38:83/
+ http://124.223.212.38:83/douyu/xxx
+ http://124.223.212.38:83/huya/xxx
+
+ 网站B
+ http://diyp.112114.xyz/
+ http://diyp.112114.xyz/douyu/yyy
+ http://diyp.112114.xyz/huya/yyy
+
+ 网站C
+ http://epg.112114.xyz/
+ http://epg.112114.xyz/douyu/zzz
+ http://epg.112114.xyz/huya/zzz
 
 # VLC：官方网站：
 http://www.videolan.org/
