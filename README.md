@@ -85,6 +85,8 @@ https://www.iamwawa.cn/base64.html
 # Emby-ZDZ知识库
 
 https://raw.githubusercontent.com/cymcn/IPTV/main/zdz
+
+https://ghproxy.com/https://raw.githubusercontent.com/cymcn/IPTV/main/zdz
  
  
  
