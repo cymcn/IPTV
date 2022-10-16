@@ -4,7 +4,7 @@
   https://t.me/EmbyPublic
 
                如果出现使用emby connect登录你应该:",
-		"e": "点下一步",
+		#"e": "点下一步",
 		"a": "点跳过/手动输入"
 	
 		哪一个国家不能直接访问公益服的备用线路 (也就是cloudflare线路)?",
