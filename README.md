@@ -16,19 +16,23 @@ https://raw.githubusercontent.com/cymcn/IPTV/main/%E7%94%A8%E4%BB%A3%E7%A0%81%E8
 
 
 
-# 七米蓝的仓库
-https://al.chirmyram.com/
+
 
 # 直播源列表格式转换 - 黑鸟博客：
 https://guihet.com/tvlistconvert.html
+
+# IPTV批量生成器：
+http://tools.jb51.net/aideddesign/ljscq
+
 
 
 # IPTV链接搜索引擎:
 https://www.foodieguide.com/iptvsearch/
 
+# M3U地区有效检测：
+http://17ce.com/site
 
-# IPTV批量生成器：
-http://tools.jb51.net/aideddesign/ljscq
+
 
 
 
@@ -59,8 +63,7 @@ http://epg.51zmt.top:8000/e.xml
 # VLC：官方网站：
 http://www.videolan.org/
 
-# M3U地区有效检测：
-http://17ce.com/site
+
 
 
 
@@ -73,14 +76,19 @@ https://tivimatepremiumapk.com/
 使用：
 https://raw.githubusercontent.com/cymcn/IPTV/main/TVBox%E8%AE%BE%E7%BD%AE%E5%92%8C%E4%BD%BF%E7%94%A8
 
+# Base64编码解码工具：
+https://www.iamwawa.cn/base64.html
+
 接口：
 https://raw.githubusercontent.com/cymcn/IPTV/main/TVBOX%E6%8E%A5%E5%8F%A3
 
 仓库：
 https://agit.ai/explore/repos?q=TVBOX
 
-# Base64编码解码工具：
-https://www.iamwawa.cn/base64.html
+# 七米蓝的仓库
+https://al.chirmyram.com/
+
+
 
 # Emby-ZDZ知识库
 
