@@ -109,3 +109,7 @@ https://ghproxy.com/https://raw.githubusercontent.com/cymcn/IPTV/main/zdz
 
 # 乐视电视桌面：
 ![IOS-D- 整体效果图](https://user-images.githubusercontent.com/95155750/196031476-1e58524b-d205-4648-97e5-dd592eb829c6.jpg)
+
+![IOS 整体效果图](https://user-images.githubusercontent.com/95155750/201636313-90394f1a-53b5-4c60-9b64-f8e3cf0853e8.jpg)![IOS-C- 整体效果图](https://user-images.githubusercontent.com/95155750/201636359-e643c1cf-31b0-405e-b4e9-c7a346a4f262.jpg)
+
+![IOS-B- 整体效果图](https://user-images.githubusercontent.com/95155750/201636351-d69ad5ef-3edf-4e6e-83cb-fe4fa440c94d.jpg)
