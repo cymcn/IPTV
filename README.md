@@ -4,7 +4,8 @@
 https://ghproxy.com/
 
 # 代码托管：pastebin                       
-https://pastebin.com/u/xiajiang8**    
+https://pastebin.com/u/xiajiang8** C**cn0627@gmail.com   
+
 
 # 代码 短网址链接 ：
 https://wmlabs.net/
