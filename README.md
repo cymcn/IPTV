@@ -118,15 +118,17 @@ https://ghproxy.com/https://raw.githubusercontent.com/cymcn/IPTV/main/zdz
 
    打开直播间，在页面空白处，右键选[查看源代码]
    在该页面，Ctrl+F，输入[sHlsUrl]，回车：
-   在该页面，Ctrl+F，输入[sHlsUrl]，回车：
-51d1d3d51c9ed62d792bce3db396cdc1.png
-找到三个服务器地址，也就是三条播放线路，都把它复制到记事本里，然后把转义字符清理掉，得到：
-b72345beea12be47d0b745b3eaa05cf2.png
-0x02
-再次在该页面，Ctrl+F，输入[sStreamName]，回车：
-e41eae1ec6500babc24735d64730eac0.png
-找到三个相同的流名称，换句话说，这个直播间它在三个服务器上用的是同一个流名称，把这个流名称复制到记事本里，然后与服务器地址拼接，最后加上.m3u8，得到：
-abebd25984d2fa93abb0e2c1a17e4765.png
-这样我们已经完成了提取直播间地址转成直播源*.m3u8，接下来进行测试。
-0x03
+  ![AA](https://user-images.githubusercontent.com/95155750/216800251-76a17e4c-a84f-429a-abab-9bb5601ffaf8.jpg)
+
+   找到三个服务器地址，也就是三条播放线路，都把它复制到记事本里，然后把转义字符清理掉，得到：
+  ![BB](https://user-images.githubusercontent.com/95155750/216800257-73342f6a-285c-4cc3-830c-255a8769e1c1.jpg)
+
+   再次在该页面，Ctrl+F，输入[sStreamName]，回车：
+  ![CC](https://user-images.githubusercontent.com/95155750/216800260-ba12ff9f-b0a3-4be1-b844-075b36762bfc.png)
+
+   找到三个相同的流名称，换句话说，这个直播间它在三个服务器上用的是同一个流名称，把这个流名称复制到记事本里，然后与服务器地址拼接，最后加上.m3u8，得到：
+  ![DD](https://user-images.githubusercontent.com/95155750/216800267-bcc0cdd7-e945-4ce4-81d6-064b7504ec0a.png)
+
+  这样我们已经完成了提取直播间地址转成直播源*.m3u8，接下来进行测试。
+
 
