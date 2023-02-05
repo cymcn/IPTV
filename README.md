@@ -38,9 +38,10 @@ http://17ce.com/site
 
 # 斗鱼 虎牙直播间地址转成直播源.m3u8
 
-    虎牙:http://live.aptvapp.com/huya.php?id=?????
-          https://epg.112114.xyz/huya/???
-    斗鱼:http://epg.112114.xyz/douyu/????
+    虎牙:http://live.aptvapp.com/huya.php?id=11342387  
+         https://epg.112114.xyz/huya/11342387 
+       
+    斗鱼:http://epg.112114.xyz/douyu/6140589
 
 
 
