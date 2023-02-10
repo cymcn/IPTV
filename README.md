@@ -80,7 +80,7 @@ http://epg.51zmt.top:8000/difang.xml
  EPG-电子节目单：
  
  
- 网站A
+ 网站A：
 http://epg.112114.eu.org/ 
 
 http://epg.112114.eu.org/douyu/xxx
@@ -88,7 +88,7 @@ http://epg.112114.eu.org/douyu/xxx
 http://epg.112114.eu.org/huya/xxx
  
 
- 网站B
+ 网站B：
  http://diyp.112114.xyz/
  
  http://diyp.112114.xyz/douyu/yyy
@@ -96,7 +96,7 @@ http://epg.112114.eu.org/huya/xxx
  http://diyp.112114.xyz/huya/yyy
 
 
- 网站C
+ 网站C：
  http://epg.112114.xyz/
  
  http://epg.112114.xyz/douyu/zzz
@@ -104,7 +104,7 @@ http://epg.112114.eu.org/huya/xxx
  http://epg.112114.xyz/huya/zzz
  
  
-  斗鱼 虎牙直播间地址转成直播源.m3u8
+  斗鱼 虎牙直播间地址转成直播源m3u8：
 
    1. http://live.aptvapp.com/huya.php?id=11342387  
    2. https://epg.112114.xyz/huya/11342387     
