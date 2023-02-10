@@ -88,26 +88,19 @@ http://epg.51zmt.top:8000/difang.xml
  http://124.223.212.38:83/
  http://124.223.212.38:83/douyu/xxx
  http://124.223.212.38:83/huya/xxx
+ 
 
  网站B
  http://diyp.112114.xyz/
  http://diyp.112114.xyz/douyu/yyy
  http://diyp.112114.xyz/huya/yyy
 
+
  网站C
  http://epg.112114.xyz/
  http://epg.112114.xyz/douyu/zzz
  http://epg.112114.xyz/huya/zzz
  
- https://sh1708063.b.had.su/ParsXML/Edem-m3u.php?key=Z9SX9ERTHFNSXU
-
- https://sh1708063.b.had.su/ParsXML/Edem-m3u.php?key=KCUZ7YSYEGGMYY
-
- https://sh1708063.b.had.su/ParsXML/Edem-m3u.php?key=YYY6YBWYUNA6UM
-
- https://sh1708063.b.had.su/ParsXML/Edem-m3u.php?key=TMNT9LL8GCKRMT
-
- https://sh1708063.b.had.su/ParsXML/Edem-m3u.php?key=ND38KFRRXUDUU3
 
 # 播放器软件：
 
