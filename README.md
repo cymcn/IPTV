@@ -39,12 +39,19 @@ http://17ce.com/site
 # 斗鱼 虎牙直播间地址转成直播源.m3u8
 
     http://live.aptvapp.com/huya.php?id=11342387  
-    https://epg.112114.xyz/huya/11342387 
-       
+    https://epg.112114.xyz/huya/11342387     
     http://epg.112114.xyz/douyu/6140589
 
 
+# github 相关项目推荐：
 
+1.北京联通IPTV频道列表 https://github.com/qwerttvv/Beijing-IPTV
+2.移动直播源汇总 https://github.com/SPX372928/MyIPTV
+3.10086IPTV https://github.com/sheng007/10086-IPTV
+4.世界IPTV库, 内容全： https://github.com/iptv-org/iptv
+5.IPTVM3U, https://github.com/Sphinxroot/IPTVM3U
+6.[一键管理iptv脚本] https://github.com/woniuzfb/iptv
+7.[iptv-pro.github.io] https://github.com/iptv-pro/iptv-pro.github.io
 
 
 
