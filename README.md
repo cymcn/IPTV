@@ -7,31 +7,32 @@ https://ghproxy.com/
 https://pastebin.com/u/xiajiang8** C**cn0627@gmail.com   
 
 
-# 代码 短网址链接 ：
-https://wmlabs.net/
+ 代码 短网址链接 ：
+ https://wmlabs.net/
 
 代码说明
 https://raw.githubusercontent.com/cymcn/IPTV/main/%E7%94%A8%E4%BB%A3%E7%A0%81%E8%87%AA%E5%8A%A8%E5%8C%96
 
-
-
-
-
-
-
-# 直播源列表格式转换 - 黑鸟博客：
-https://guihet.com/tvlistconvert.html
-
-# IPTV批量生成器：
+IPTV批量生成器：
 http://tools.jb51.net/aideddesign/ljscq
 
+M3U地区有效检测：
+http://17ce.com/site
 
-
-# IPTV链接搜索引擎:
+IPTV链接搜索引擎:
 https://www.foodieguide.com/iptvsearch/
 
-# M3U地区有效检测：
-http://17ce.com/site
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -60,6 +61,8 @@ http://17ce.com/site
 7.[iptv-pro.github.io] https://github.com/iptv-pro/iptv-pro.github.io
 
 
+# 直播源列表格式转换 - 黑鸟博客：
+https://guihet.com/tvlistconvert.html
 
 
 # EPG的频道LOGO列表，实时更新：
@@ -67,6 +70,8 @@ http://epg.51zmt.top:8000/
 
 # EPG节目预告源地址，实时更新：
 http://epg.51zmt.top:8000/e.xml
+http://epg.51zmt.top:8000/cc.xml
+http://epg.51zmt.top:8000/difang.xml
 
 # EPG-电子节目单：
  网站A
