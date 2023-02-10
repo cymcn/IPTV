@@ -73,6 +73,7 @@ http://epg.51zmt.top:8000/
 
 
 EPG节目预告源地址，实时更新：
+
 http://epg.51zmt.top:8000/e.xml
 
 http://epg.51zmt.top:8000/cc.xml
@@ -105,7 +106,9 @@ http://epg.51zmt.top:8000/difang.xml
 
  https://sh1708063.b.had.su/ParsXML/Edem-m3u.php?key=ND38KFRRXUDUU3
 
-# VLC：官方网站：
+# 播放器软件：
+
+VLC：官方网站
 http://www.videolan.org/
 
 
@@ -121,7 +124,8 @@ https://tivimatepremiumapk.com/
 使用：
 https://raw.githubusercontent.com/cymcn/IPTV/main/TVBox%E8%AE%BE%E7%BD%AE%E5%92%8C%E4%BD%BF%E7%94%A8
 
-# Base64编码解码工具：
+Base64编码解码工具：
+
 https://www.iamwawa.cn/base64.html
 
 接口：
