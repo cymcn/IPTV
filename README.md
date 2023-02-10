@@ -1,11 +1,13 @@
 
 
-# GitHub 代理加速
-https://ghproxy.com/
+
 
 # 代码托管：
 
-pastebin：https://pastebin.com/u/xiajiang8** C**cn0627@gmail.com   
+GitHub 代理加速：
+https://ghproxy.com/
+
+pastebin：https://pastebin.com/u/xiajiang8**     C**cn0627@gmail.com   
 
 
  代码 短网址链接 ：
