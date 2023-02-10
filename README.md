@@ -139,7 +139,7 @@ https://raw.githubusercontent.com/cymcn/IPTV/main/TVBOX%E6%8E%A5%E5%8F%A3
 仓库：
 https://agit.ai/explore/repos?q=TVBOX
 
-七米蓝的仓库
+七米蓝的仓库：
 https://al.chirmyram.com/
 
 
