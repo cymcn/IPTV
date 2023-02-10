@@ -61,7 +61,7 @@ https://www.foodieguide.com/iptvsearch/
 7.[iptv-pro.github.io] https://github.com/iptv-pro/iptv-pro.github.io
 
 
-# 黑鸟博客
+# 电子节目单EPG
 
 直播源列表格式转换 - 黑鸟博客：
 https://guihet.com/tvlistconvert.html
@@ -80,7 +80,7 @@ http://epg.51zmt.top:8000/cc.xml
 
 http://epg.51zmt.top:8000/difang.xml
 
-# EPG-电子节目单：
+ EPG-电子节目单：
  网站A
  http://124.223.212.38:83/
  http://124.223.212.38:83/douyu/xxx
