@@ -124,9 +124,8 @@ tivimate：
 https://tivimatepremiumapk.com/
  
 
-TVBox：
+TVBox使用：
 
-使用：
 https://raw.githubusercontent.com/cymcn/IPTV/main/TVBox%E8%AE%BE%E7%BD%AE%E5%92%8C%E4%BD%BF%E7%94%A8
 
 Base64编码解码工具：
