@@ -26,7 +26,6 @@ IPTV链接搜索引擎:
 https://www.foodieguide.com/iptvsearch/
 
 IPTV+Checker+2.5汉化版.exe：
-
 https://github.com/cymcn/IPTV/blob/main/IPTV%2BChecker%2B2.5%E6%B1%89%E5%8C%96%E7%89%88.exe
 
 Notepad2-mod 文字编辑器：
