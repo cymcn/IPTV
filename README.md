@@ -65,10 +65,12 @@ https://www.foodieguide.com/iptvsearch/
 https://guihet.com/tvlistconvert.html
 
 
-# EPG的频道LOGO列表，实时更新：
+
+EPG的频道LOGO列表，实时更新：
 http://epg.51zmt.top:8000/
 
-# EPG节目预告源地址，实时更新：
+
+EPG节目预告源地址，实时更新：
 http://epg.51zmt.top:8000/e.xml
 http://epg.51zmt.top:8000/cc.xml
 http://epg.51zmt.top:8000/difang.xml
@@ -124,7 +126,7 @@ https://raw.githubusercontent.com/cymcn/IPTV/main/TVBOX%E6%8E%A5%E5%8F%A3
 仓库：
 https://agit.ai/explore/repos?q=TVBOX
 
-# 七米蓝的仓库
+七米蓝的仓库
 https://al.chirmyram.com/
 
 
