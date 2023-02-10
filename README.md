@@ -38,11 +38,7 @@ https://www.foodieguide.com/iptvsearch/
 
 
 
-# 斗鱼 虎牙直播间地址转成直播源.m3u8
 
-   1. http://live.aptvapp.com/huya.php?id=11342387  
-   2. https://epg.112114.xyz/huya/11342387     
-   3. http://epg.112114.xyz/douyu/6140589
 
 
 # github 相关项目推荐：
@@ -86,21 +82,33 @@ http://epg.51zmt.top:8000/difang.xml
  
  网站A
  http://124.223.212.38:83/
+ 
  http://124.223.212.38:83/douyu/xxx
+ 
  http://124.223.212.38:83/huya/xxx
  
 
  网站B
  http://diyp.112114.xyz/
+ 
  http://diyp.112114.xyz/douyu/yyy
+ 
  http://diyp.112114.xyz/huya/yyy
 
 
  网站C
  http://epg.112114.xyz/
+ 
  http://epg.112114.xyz/douyu/zzz
+ 
  http://epg.112114.xyz/huya/zzz
  
+ 
+  斗鱼 虎牙直播间地址转成直播源.m3u8
+
+   1. http://live.aptvapp.com/huya.php?id=11342387  
+   2. https://epg.112114.xyz/huya/11342387     
+   3. http://epg.112114.xyz/douyu/6140589
 
 # 播放器软件：
 
