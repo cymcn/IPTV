@@ -124,6 +124,10 @@ VLC：官方网站：
 http://www.videolan.org/
 
 
+potplayer:
+
+https://potplayer.daum.net/?lang=zh_CN
+
 
 
 
