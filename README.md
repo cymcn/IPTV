@@ -158,6 +158,21 @@ https://agit.ai/explore/repos?q=TVBOX
 
 https://al.chirmyram.com/
 
+公益的drpy 接口搬到 :
+精简版
+http://drpy.site/slim
+js=1 本地
+http://drpy.site/js1
+js=0 远程
+http://drpy.site/js0
+
+alist的接口
+http://alist.xiaoya.pro
+
+alist 的 webdav接口 账号
+guest
+guest_Api789
+
 
 
 # Emby-ZDZ知识库
