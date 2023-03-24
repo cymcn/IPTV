@@ -10,7 +10,7 @@ https://ghproxy.com/
 pastebin：https://pastebin.com/u/xiajiang8**     C**cn0627@gmail.com   
 
 
- 代码 短网址链接 ：
+ 短网址 文本格式 添加链接 ：
  https://wmlabs.net/
 
 EXTM3U代码说明
