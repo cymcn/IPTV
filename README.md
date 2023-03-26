@@ -31,6 +31,8 @@ https://github.com/cymcn/IPTV/blob/main/IPTV%2BChecker%2B2.5%E6%B1%89%E5%8C%96%E
 Notepad2-mod 文字编辑器：
 https://github.com/cymcn/m3u/blob/fc6bf4a214c88c8760a433a07b221f31ee040e69/Notepad2mod.rar
 
+学习网站-XV：免翻版.COM；https://xvxn.cc/ 
+若地址全都打不开请联系我们 XVXN888@Gmail.com
 
 
 
