@@ -142,6 +142,7 @@ https://tivimatepremiumapk.com/
  Alist-DPC为安装运行程序，下载：https://github.com/cymcn/IPTV/raw/main/Alist-DPC.rar
  
  Alist-windows-386（3.15），下载：https://github.com/cymcn/IPTV/raw/main/Alist-windows-386.zip
+ 或者到官方下载最新版本：https://github.com/alist-org/alist/releases
  
   换路径内32位核心文件才能运行
   
@@ -150,6 +151,7 @@ https://tivimatepremiumapk.com/
 # TVBox
 
 使用方法：
+
 https://raw.githubusercontent.com/cymcn/IPTV/main/TVBox%E8%AE%BE%E7%BD%AE%E5%92%8C%E4%BD%BF%E7%94%A8
 
 
