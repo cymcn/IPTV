@@ -71,6 +71,7 @@ https://github.com/cymcn/m3u/blob/fc6bf4a214c88c8760a433a07b221f31ee040e69/Notep
 
 
 斗鱼 虎牙直播间地址转成直播源m3u8：
+
    0. http://live.aptvapp.com/live/douyu/4246519
    1. http://live.aptvapp.com/huya.php?id=11342387  
    2. https://epg.112114.xyz/huya/11342387     
