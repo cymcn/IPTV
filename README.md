@@ -13,8 +13,7 @@ pastebin：https://pastebin.com/u/xiajiang8**     C**cn0627@gmail.com
  短网址 文本格式 添加链接 ：
  https://wmlabs.net/
 
-EXTM3U代码说明
-https://raw.githubusercontent.com/cymcn/IPTV/main/%E7%94%A8%E4%BB%A3%E7%A0%81%E8%87%AA%E5%8A%A8%E5%8C%96
+EXTM3U代码说明:https://raw.githubusercontent.com/cymcn/IPTV/main/%E7%94%A8%E4%BB%A3%E7%A0%81%E8%87%AA%E5%8A%A8%E5%8C%96
 
 IPTV批量生成器：
 http://tools.jb51.net/aideddesign/ljscq
