@@ -69,12 +69,21 @@ https://github.com/cymcn/m3u/blob/fc6bf4a214c88c8760a433a07b221f31ee040e69/Notep
 
 # 电子节目单EPG
 
+
+斗鱼 虎牙直播间地址转成直播源m3u8：
+   0. http://live.aptvapp.com/live/douyu/4246519
+   1. http://live.aptvapp.com/huya.php?id=11342387  
+   2. https://epg.112114.xyz/huya/11342387     
+   3. http://epg.112114.xyz/douyu/6140589
+   
 直播源列表格式转换 - 黑鸟博客：
+
 https://guihet.com/tvlistconvert.html
 
 
 
 EPG的频道LOGO列表，实时更新：
+
 http://epg.51zmt.top:8000/
 
 
@@ -113,11 +122,7 @@ http://epg.112114.eu.org/huya/xxx
  http://epg.112114.xyz/huya/zzz
  
  
-  斗鱼 虎牙直播间地址转成直播源m3u8：
-
-   1. http://live.aptvapp.com/huya.php?id=11342387  
-   2. https://epg.112114.xyz/huya/11342387     
-   3. http://epg.112114.xyz/douyu/6140589
+  
 
 # 播放器软件：
 
