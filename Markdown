@@ -1,0 +1,17 @@
+## Markdown alist元信息
+
+> 1画面 ：![圖片替代文字](https://ghproxy.com/https://raw.githubusercontent.com/cymcn/IPTV/main/lestv.jpg)
+
+
+> 2画面：<img src="https://ghproxy.com/https://raw.githubusercontent.com/cymcn/IPTV/main/ic_launcher-1.png" alt="圖片替代文字" width="450">
+<img src="https://ghproxy.com/https://raw.githubusercontent.com/cymcn/IPTV/main/ic_launcher-1.png" alt="圖片替代文字" width="450">
+
+
+> 3画面：<div style="display:flex;">
+    <img src="https://ghproxy.com/https://raw.githubusercontent.com/cymcn/IPTV/main/mipmap0000.png" alt="圖片替代文字" style="width:300px; flex:1;">
+    <img src="https://ghproxy.com/https://raw.githubusercontent.com/cymcn/IPTV/main/mipmap0000.png" alt="圖片替代文字" style="width:300px; flex:1;">
+    <img src="https://ghproxy.com/https://raw.githubusercontent.com/cymcn/IPTV/main/mipmap0000.png" alt="圖片替代文字" style="width:300px; flex:1;">
+</div>
+
+
+
