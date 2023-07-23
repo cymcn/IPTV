@@ -154,11 +154,13 @@ https://tivimatepremiumapk.com/
 
   Alist-GUI.exe：https://github.com/cymcn/IPTV/blob/main/Alist-GUI.exe
   
- 或者到官方下载最新版本：https://github.com/alist-org/alist/releases
+ 
  
   换路径内32位核心文件才能运行
   
-  Alist github 地址：https://github.com/alist-org/alist
+  
+  alist github 最新版本地址：[https://github.com/alist-org/alist](https://github.com/alist-org/alist/releases)
+  
 
 # TVBox
 
