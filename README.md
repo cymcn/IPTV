@@ -143,10 +143,17 @@ tivimate：
 https://tivimatepremiumapk.com/
  
 # Alist pc端：
+
+ 第一款:
  
  Alist-DPC为安装运行程序，下载：https://github.com/cymcn/IPTV/raw/main/Alist-DPC.rar
  
- Alist-windows-386（3.15），下载：https://github.com/cymcn/IPTV/raw/main/Alist-windows-386.zip
+ Alist-1.2（3.15），下载：[https://github.com/cymcn/IPTV/raw/main/Alist-windows-386.zip](https://github.com/cymcn/IPTV/blob/main/Alist-DPC%E5%AE%89%E8%A3%85%E7%A8%8B%E5%BA%8F1.2.exe)
+
+  第二款:
+
+  Alist-GUI.exe：https://github.com/cymcn/IPTV/blob/main/Alist-GUI.exe
+  
  或者到官方下载最新版本：https://github.com/alist-org/alist/releases
  
   换路径内32位核心文件才能运行
