@@ -159,7 +159,7 @@ https://tivimatepremiumapk.com/
   换路径内32位核心文件才能运行
   
   
-  alist github 最新版本地址：[https://github.com/alist-org/alist](https://github.com/alist-org/alist/releases)
+  alist文件 最新版本地址：https://github.com/alist-org/alist/releases
   
 
 # TVBox
