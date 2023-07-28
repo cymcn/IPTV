@@ -68,6 +68,8 @@ https://github.com/cymcn/m3u/blob/fc6bf4a214c88c8760a433a07b221f31ee040e69/Notep
 
 # EPG代理（斗鱼 虎牙 轮播）
 
+第1种方法：
+
 Replit官网：https://replit.com/
 
 命令：
@@ -86,6 +88,7 @@ Replit官网：https://replit.com/
 我的监控站点：https://stats.uptimerobot.com/RyPQJFnrjg
 
 
+第2种方法：
 
 Fork项目到自己的仓库:https://github.com/cymcn/iptv-go
 在Vercel创建Project并选择iptv-go
