@@ -87,6 +87,20 @@ Replit官网：https://replit.com/
 
 
 
+Fork项目到自己的仓库:https://github.com/cymcn/iptv-go
+在Vercel创建Project并选择iptv-go
+Build&Deploy
+Enjoy~
+
+https://<你的域名>/live/平台/id
+
+
+自定义域名CNAME到cname-china.vercel-dns.com加速访问
+
+Vercel的Function Region设置为香港服务器可以获得更低延迟
+
+
+
 # 电子节目单EPG
 
 
