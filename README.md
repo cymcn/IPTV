@@ -66,7 +66,26 @@ https://github.com/cymcn/m3u/blob/fc6bf4a214c88c8760a433a07b221f31ee040e69/Notep
 7.[iptv-pro.github.io] https://github.com/iptv-pro/iptv-pro.github.io
 
 
+# EPG代理（斗鱼 虎牙 轮播）
+
+Replit官网：https://replit.com/
+
+命令：
+1: rm -rf ./main && rm -rf ./main.go && rm -rf ./go.mod
+2: git clone https://github.com/youshandefeiyang/LiveRedirect.git
+3: mv ./LiveRedirect/Golang/* ./
+4: rm -rf ./LiveRedirect/
+
+自动监控Replit官网：https://uptimerobot.com/
+友情提示:replit域名要用http访问才能保活
+
+
+我的监控站点：https://stats.uptimerobot.com/RyPQJFnrjg
+
+
+
 # 电子节目单EPG
+
 
 
 斗鱼 虎牙直播间地址转成直播源m3u8：
