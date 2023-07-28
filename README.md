@@ -72,8 +72,11 @@ Replit官网：https://replit.com/
 
 命令：
 1: rm -rf ./main && rm -rf ./main.go && rm -rf ./go.mod
+
 2: git clone https://github.com/youshandefeiyang/LiveRedirect.git
+
 3: mv ./LiveRedirect/Golang/* ./
+
 4: rm -rf ./LiveRedirect/
 
 自动监控Replit官网：https://uptimerobot.com/
