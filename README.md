@@ -117,6 +117,7 @@ Vercel的Function Region设置为香港服务器可以获得更低延迟
    4. https://www.goodiptv.club/douyu/4246519
    5. https://live.metshop.top/douyu/4246519
    6. http://8.210.232.168/php/huya.php?id=11342385
+   7. http://47.236.28.28:35455/douyu/4246519
 
    
 直播源列表格式转换 - 黑鸟博客：
