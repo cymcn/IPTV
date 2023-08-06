@@ -111,12 +111,12 @@ Vercel的Function Region设置为香港服务器可以获得更低延迟
 斗鱼 虎牙直播间地址转成直播源m3u8：
 
    0. http://live.aptvapp.com/live/douyu/4246519
-   1. http://live.aptvapp.com/huya.php?id=11342387  
+   1. http://diyp.112114.xyz/douyu/yyy
    2. https://epg.112114.xyz/huya/11342387     
    3. http://epg.112114.xyz/douyu/6140589
    4. https://www.goodiptv.club/douyu/4246519
    5. https://live.metshop.top/douyu/4246519
-   6. http://8.210.232.168/php/huya.php?id=19105261
+   6. http://8.210.232.168/php/huya.php?id=11342385
 
    
 直播源列表格式转换 - 黑鸟博客：
